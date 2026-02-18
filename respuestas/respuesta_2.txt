@@ -1,1 +1,1 @@
-DOCUMENTAL | Ideal para estructuras variables, permite que cada perfil tenga campos distintos u opcionales sin romper el esquema
+DOCUMENTAL | Ideal para estructuras variables, permite que cada perfil tenga campos distintos u opcionales sin romper el esquema.
