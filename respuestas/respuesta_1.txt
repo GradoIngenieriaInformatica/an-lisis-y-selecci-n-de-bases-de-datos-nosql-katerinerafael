@@ -1,3 +1,1 @@
-TIPO | Justificación corta
-
-GRAFOS | Es la única diseñada específicamente para recorrer relaciones complejas y conexiones indirectas de forma eficiente sin usar JOINs.
+GRAFOS | Recorren conexiones complejas mediante punteros directos, logrando una eficiencia nativa sin el costo de usar JOINs.

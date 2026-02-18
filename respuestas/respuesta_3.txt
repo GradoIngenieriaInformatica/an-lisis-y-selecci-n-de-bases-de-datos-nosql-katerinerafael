@@ -1,3 +1,1 @@
-TIPO | Justificación corta
-
-SERIES TEMPORALES | Está optimizada para soportar la escritura masiva de millones de datos y consultarlos rápidamente por fecha y hora.
+SERIES TEMPORALES | Está optimizada para soportar la escritura masiva de millones de datos y consultarlos rápidamente por fecha y hora
