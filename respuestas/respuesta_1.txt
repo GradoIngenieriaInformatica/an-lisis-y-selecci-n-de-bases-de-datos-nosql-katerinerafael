@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+GRAFOS | Recorren conexiones complejas mediante punteros directos, logrando una eficiencia nativa sin el costo de usar JOINs.
